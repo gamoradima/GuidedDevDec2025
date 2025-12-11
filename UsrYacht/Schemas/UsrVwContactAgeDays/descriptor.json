@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "90704264-c0ff-436f-80e2-3f3377a5e5d5",
+    "Name": "UsrVwContactAgeDays",
+    "ModifiedOnUtc": "\/Date(1765430479000)\/",
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Contact age in days (View)",
+    "DependsOn": []
+  }
+}

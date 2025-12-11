@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "e1d2d895-f74b-5b7d-9e12-b8d01974626c",
+    "Name": "ContactAgeInDaysViewPostgreSQL",
+    "DBEngineType": 2,
+    "InstallType": 0,
+    "ModifiedOnUtc": "\/Date(1765429122000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
