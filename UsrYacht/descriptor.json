@@ -3,14 +3,21 @@
     "UId": "0ff231ed-6da5-40ca-a1f9-b57460abc345",
     "Name": "UsrYacht",
     "Type": 1,
-    "ModifiedOnUtc": "\/Date(1765261244000)\/",
+    "ModifiedOnUtc": "\/Date(1765866009000)\/",
     "Maintainer": "Customer",
     "ProjectPath": "Files/UsrYacht.csproj",
+    "Description": "Training study demo",
     "DependsOn": [
       {
         "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
         "PackageVersion": "7.8.0",
         "Name": "CrtCore",
+        "Type": 1
+      },
+      {
+        "UId": "2ecba2bd-b810-47a5-a1b1-08c888529d6c",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCustomer360App",
         "Type": 1
       }
     ]
